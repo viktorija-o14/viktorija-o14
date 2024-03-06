@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Monero
 - 💞️ I’m looking to collaborate on privacy projects
 - 📫 How to reach me KerryViktorija100ATGMAIL
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
