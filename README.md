@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @viktorija-o14
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Monero
+- 🌱 I’m currently learning about Monero
 - 💞️ I’m looking to collaborate on privacy projects
 - 📫 How to reach me KerryViktorija100ATGMAIL
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I think XMR is real BTC
 
 <!---
 viktorija-o14/viktorija-o14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
