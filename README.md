@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viktorija-o14
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Web3
 - 🌱 I’m currently learning about Monero
 - 💞️ I’m looking to collaborate on privacy projects
 - 📫 How to reach me KerryViktorija100ATGMAIL
